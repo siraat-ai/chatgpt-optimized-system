@@ -187,9 +187,3 @@ If you find this useful:
 ---
 
 ```
-
----
-
-
-
-Bol: **“CHAPTER 1 START”** 🚀
