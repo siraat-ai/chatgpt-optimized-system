@@ -1,10 +1,3 @@
-Perfect 🔥 — ye **pro-level README** hai jo tum direct GitHub pe daal sakte ho (copy–paste ready)
-
----
-
-# 📄 README.md
-
-```md
 # ChatGPT: An Optimized System 🚀
 
 > How one AI can replace 100 tools and help you learn, build, and earn.
