@@ -231,6 +231,6 @@ This book is not meant to be read once.
 It is meant to be used.
 
 > Learn → Apply → Earn → Repeat
-```
+
 
 
